@@ -44,14 +44,13 @@ These are the technologies or programmes I usually work.
 ### 📈 Statistics
 Checkout my work statistics below.
 
- <img  height= "130" align="left" alt="hmimeee" src="https://github-readme-streak-stats.herokuapp.com/?user=hmimeee&theme=dark&hide_border=true" />
- <img height= "130" src="https://github-readme-stats.vercel.app/api?username=hmimeee&theme=dark&hide_border=true&show_icons=true&include_all_commits=true" />
+ <img  height= "130" align="left" alt="hmimeee" src="https://github-readme-streak-stats.herokuapp.com/?user=imrul18&theme=dark&hide_border=true" />
+ <img height= "130" src="https://github-readme-stats.vercel.app/api?username=imrul18&theme=dark&hide_border=true&show_icons=true&include_all_commits=true" />
 
 
 ### 💬 Socials
 Connect with me through social media.
 
- [![Twitter: hmimeee](https://img.shields.io/twitter/follow/hmimeee?style=social)](https://twitter.com/hmimeee)
-[![Linkedin: Imrul Afnan](https://img.shields.io/badge/-hmimeee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bd.linkedin.com/in/md-imrul-hosen-afnan-58415a210)](https://bd.linkedin.com/in/md-imrul-hosen-afnan-58415a210)
+[![Linkedin: Imrul Afnan](https://img.shields.io/badge/-Imrul Afnan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bd.linkedin.com/in/md-imrul-hosen-afnan-58415a210)](https://bd.linkedin.com/in/md-imrul-hosen-afnan-58415a210)
 
 About
