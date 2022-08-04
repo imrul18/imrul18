@@ -1,30 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@imrul18 
-hmimeee
-/
-hmimeee
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-hmimeee/README.md
-@hmimeee
-hmimeee Update README.md
-Latest commit 474e746 21 days ago
- History
- 1 contributor
-54 lines (39 sloc)  3.57 KB
 
 <img align="left" alt="Brain" width="350" src="https://github.com/hmimeee/hmimeee/raw/main/coding.png">
 <img src="https://github.com/hmimeee/hmimeee/raw/main/hello.gif" width="30%">
@@ -79,18 +52,6 @@ Checkout my work statistics below.
 Connect with me through social media.
 
  [![Twitter: hmimeee](https://img.shields.io/twitter/follow/hmimeee?style=social)](https://twitter.com/hmimeee)
-[![Linkedin: hmimeee](https://img.shields.io/badge/-hmimeee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hmimeee/)](https://www.linkedin.com/in/hmimeee/)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
+[![Linkedin: Imrul Afnan](https://img.shields.io/badge/-hmimeee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bd.linkedin.com/in/md-imrul-hosen-afnan-58415a210)](https://bd.linkedin.com/in/md-imrul-hosen-afnan-58415a210)
+
 About
