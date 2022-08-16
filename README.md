@@ -3,11 +3,8 @@
 <img src="https://github.com/hmimeee/hmimeee/raw/main/hello.gif" width="30%">
 
 ## OVERVIEW
-Hi, this is Imran. I love to work to develop web applications. Little less but also like to build hybrid mobile applications. Also working with API for mobile applications. I've been working for more than 3 years in this madness world. I like to explore new technologies and develop software solutions.
-- I like to explore new technologies and develop software solutions.
-- I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
-- I’m currently working on all kinds of frontend javascript frameworks like Vue.js, React.js, Angular.js, etc.
-- For backend PHP and Python and it's frameworks specially Laravel, Codeigniter, CakePHP, Django etc.
+Hi, this is Imrul Afnan. I love to work to develop mobile applications. Little less but also like to build web applications. Also working with API for mobile and web applications. I've been working for more than 6 months.
+- I’m currently working on React.js, React-Native, Node.js and Laravel.
 
 ### 🛠 Tech Stacks
 These are the technologies or programmes I usually work.
