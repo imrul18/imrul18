@@ -23,6 +23,6 @@ Checkout my work statistics below.
 
 
 ### 💬 Socials
-Connect with me through social media.
+Connect with me through social media
 
 [![Linkedin: Imrul Afnan](https://img.shields.io/badge/-ImrulAfnan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bd.linkedin.com/in/md-imrul-hosen-afnan-58415a210)](https://bd.linkedin.com/in/md-imrul-hosen-afnan-58415a210)
