@@ -1,6 +1,7 @@
 
-
+<div align="center">
 <img src="https://github.com/imrul18/imrul18/raw/main/hello.gif" width="30%">
+</div>
 
 ## OVERVIEW
 Hi, this is Imrul Afnan. I love to work to develop mobile applications. Little less but also like to build web applications. Also working with API for mobile and web applications. I've been working for more than 6 months.
