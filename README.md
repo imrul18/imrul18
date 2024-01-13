@@ -18,7 +18,6 @@ Hi, this is Imrul Afnan. I love to work to develop mobile applications. Little l
 ### 📈 Statistics
 Checkout my work statistics below.
 
- <img  height= "130" align="left" alt="imrul18" src="https://github-readme-streak-stats.herokuapp.com/?user=imrul18&theme=dark&hide_border=true" />
  <img height= "130" src="https://github-readme-stats.vercel.app/api?username=imrul18&theme=dark&hide_border=true&show_icons=true&include_all_commits=true" />
 
 
