@@ -8,10 +8,10 @@ Hi, this is Imrul Afnan. I love to work to develop mobile applications. Little l
 <img align="right" width="320" height="220" src="https://github.com/imrul18/imrul18/raw/main/coding.png">
 
  
-## 💻 I’m currently working at <a href="https://viserx.com/">VISERX LIMITED</a> on 
- - React-Native for mobile Application.
- - React.js for frontend design/development.
- - Node.js and Laravel for backend(API) development.
+## 💻 I’m currently working at <a href="https://www.weezly.de">Weezly GmbH</a> on 
+ - Kotlin & React-Native for mobile Application.
+ - React.js & Vue.js for frontend design/development.
+ - Laravel for backend(API) development.
  
  
 
